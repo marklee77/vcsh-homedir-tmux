@@ -1,8 +1,5 @@
 *
 !.config
-!.config/mr
-!.config/mr/config.d
-!.config/mr/config.d/tmux
 !.config/zsh
 !.config/zsh/config.d
 !.config/zsh/config.d/tmux
