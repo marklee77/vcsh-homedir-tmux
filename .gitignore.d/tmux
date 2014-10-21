@@ -1,8 +1,8 @@
 *
 !.config
 !.config/zsh
-!.config/zsh/config.d
-!.config/zsh/config.d/tmux
+!.config/zsh/rc.d
+!.config/zsh/rc.d/tmux
 !.gitignore.d
 !.gitignore.d/tmux
 !.tmux.conf
