@@ -8,5 +8,8 @@
 !.config/zsh/rc.d/tmux
 !.gitignore.d
 !.gitignore.d/tmux
+!.local
+!.local/bin
+!.local/bin/tmux-move-current-pane-to-window.sh
 !.tmux.conf
 !.tmux-airline.conf
